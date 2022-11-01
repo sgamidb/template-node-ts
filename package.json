@@ -1,12 +1,12 @@
 {
-  "name": "tdd-by-example",
+  "name": "template-node-ts",
   "version": "1.0.0",
-  "description": "Implementing examples from the book",
+  "description": "Simple template to start kata",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Sébastien Gatineau",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.2.0",
